@@ -1,0 +1,6 @@
+{
+  "name": "NextVarsity - Dhaka University MCQ Exam Portal",
+  "description": "Dhaka University Science Unit MCQ Exam Portal with subject selection (Physics, Chemistry compulsory; Math/Biology main; 4th optional), 20-minute timed test, and authentic DU result card.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
